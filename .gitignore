@@ -1,0 +1,6 @@
+venv/
+.venve/
+__pycache__/
+.ipynb_checkpoints/
+Data/yelp_academic_dataset_business (1).json
+outputs/yelp_business_flattened.csv
